@@ -1,0 +1,23 @@
+.dialog{
+    grid-area:c;
+    color: white;
+    background-color: blueviolet;
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    justify-content: space-around;
+    padding-top: 2%;
+}
+.names{
+    padding-left: 10%;
+}
+.links{
+    color: orange;
+    text-decoration: none;
+}
+.links:focus{
+    color: white;
+}
+.soobshenia{
+    color: white;
+    padding-left: 5%;
+}
