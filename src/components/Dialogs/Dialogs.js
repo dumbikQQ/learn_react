@@ -31,7 +31,7 @@ const Dialogs = (props) => {
     return (
         <div className={s.dialog}>
             <div className={s.names}>
-                <DialogsItem name="Adolf" id="1"/>
+                <DialogsItem name="Adol111111111111f" id="1"/>
                 <DialogsItem name="Grendalf" id="2"/>
                 <DialogsItem name="Ozzi" id="3"/>
                 <DialogsItem name="Bobagnida" id="4"/>
